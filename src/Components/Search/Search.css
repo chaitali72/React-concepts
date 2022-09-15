@@ -1,0 +1,13 @@
+.searchbar-input{
+    font-size: 32px;
+    width: 700px;
+    height: 60px;
+    border-radius: 50px;
+    border: 2px solid purple;
+    margin: 20px;
+}
+.fa-solid{
+    font-size: 42px;
+    color:purple;
+    cursor: pointer;
+}

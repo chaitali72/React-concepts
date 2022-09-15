@@ -1,0 +1,22 @@
+.card{
+  
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  
+}
+.movie-card{
+    border: 2px dotted gray;
+  
+   
+}
+img {
+    overflow: hidden;
+    height: 450px;
+    width: 400px; margin:5px;
+}
+h3{
+    font-size: 32px;
+}
+p{
+    font-size: 22px;
+}
